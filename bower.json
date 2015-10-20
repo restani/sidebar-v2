@@ -7,10 +7,7 @@
   ],
   "description": "A responsive sidebar for mapping libraries like Leaflet or OpenLayers",
   "main": [
-    "css/gmaps-sidebar.css",
     "css/leaflet-sidebar.css",
-    "css/ol2-sidebar.css",
-    "css/ol3-sidebar.css",
     "js/jquery-sidebar.js",
     "js/leaflet-sidebar.js"
   ],
